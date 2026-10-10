@@ -91,15 +91,15 @@ If IPNET is useful to you, please **star the repo** — it takes 5 seconds and h
 <!--VOLK-ZHIVO-START-->
 ## Live connection (auto-updated, copy from here)
 
-- Repo: https://github.com/X5Coder/IPNET
+- Repo: https://github.com/jemilitim-bit/tiktok
 
 - v2rayNG link (copy/QR, TLS+WebSocket via Cloudflare):
 ```
-vmess://eyJ2IjoiMiIsInBzIjoiVk9MSy1UQVlHQSIsImFkZCI6ImluZGV4LXNlbGwtbGVlLWxlYXRoZXIudHJ5Y2xvdWRmbGFyZS5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiI5ZWM4ZjNiZS03NThlLTQ4N2YtYjA1Ny1jYjFlMWRkZjRhOWIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpbmRleC1zZWxsLWxlZS1sZWF0aGVyLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6Ii90YWlnYSIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiVk9MSy1UQVlHQSIsImFkZCI6InByb3ZpZGluZy1oZWFsaW5nLWJheS1ibHVlcy50cnljbG91ZGZsYXJlLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6IjllYzhmM2JlLTc1OGUtNDg3Zi1iMDU3LWNiMWUxZGRmNGE5YiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InByb3ZpZGluZy1oZWFsaW5nLWJheS1ibHVlcy50cnljbG91ZGZsYXJlLmNvbSIsInBhdGgiOiIvdGFpZ2EiLCJ0bHMiOiJ0bHMifQ==
 ```
 
 - Subscription (fixed forever, auto-updates):
 ```
-https://raw.githubusercontent.com/X5Coder/IPNET/main/zayachiy_sled.txt
+https://raw.githubusercontent.com/jemilitim-bit/tiktok/main/zayachiy_sled.txt
 ```
 <!--VOLK-ZHIVO-END-->
