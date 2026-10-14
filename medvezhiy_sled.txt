@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-clark-antique-entrepreneurs-relation.trycloudflare.com
-=======
-wma-instrumentation-unix-codes.trycloudflare.com
->>>>>>> Stashed changes
+quarter-command-reference-shop.trycloudflare.com
