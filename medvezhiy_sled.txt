@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-discovery-framework-educated-simple.trycloudflare.com
-=======
-himself-port-xbox-alumni.trycloudflare.com
->>>>>>> Stashed changes
+retailers-por-occupied-sticky.trycloudflare.com
